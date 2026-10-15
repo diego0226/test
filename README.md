@@ -17,7 +17,7 @@ El sitio incluye la página Inicio y las plantillas `pages/menu.html`, `pages/eq
 ## Responsables de las funcionalidades
 
 | Estudiante | Página asignada | Rama | Commits principales |
-|---|---|---|---|
+|Rafael Porras|---|---|---|
 | | | | |
 
 ## Evidencias Git
